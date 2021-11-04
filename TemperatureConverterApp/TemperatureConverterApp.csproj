@@ -80,9 +80,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AppCore\AppCore.csproj">
+    <ProjectReference Include="..\AppCore\TemperatureConverter.Application.csproj">
       <Project>{4F8A855D-3658-47FA-BC2E-1EEA0A30C147}</Project>
-      <Name>AppCore</Name>
+      <Name>TemperatureConverter.Application</Name>
     </ProjectReference>
     <ProjectReference Include="..\TemperatureConverter.Domain\TemperatureConverter.Domain.csproj">
       <Project>{CD5C7AC3-C363-4F97-A551-48A1AC97D568}</Project>

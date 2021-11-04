@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConverterApp", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConverter.Domain", "TemperatureConverter.Domain\TemperatureConverter.Domain.csproj", "{CD5C7AC3-C363-4F97-A551-48A1AC97D568}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCore", "AppCore\AppCore.csproj", "{4F8A855D-3658-47FA-BC2E-1EEA0A30C147}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConverter.Application", "AppCore\TemperatureConverter.Application.csproj", "{4F8A855D-3658-47FA-BC2E-1EEA0A30C147}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
